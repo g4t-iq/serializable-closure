@@ -1,11 +1,11 @@
 {
-    "name": "Harmony/serializable-closure",
-    "description": "Harmony Serializable Closure provides an easy and secure way to serialize closures in PHP.",
-    "keywords": ["Harmony", "Serializable", "closure"],
+    "name": "harmony-framework/serializable-closure",
+    "description": "framework Serializable Closure provides an easy and secure way to serialize closures in PHP.",
+    "keywords": ["framework", "Serializable", "closure"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/Harmony/serializable-closure/issues",
-        "source": "https://github.com/Harmony/serializable-closure"
+        "issues": "https://github.com/framework/serializable-closure/issues",
+        "source": "https://github.com/framework/serializable-closure"
     },
     "authors": [
         {
